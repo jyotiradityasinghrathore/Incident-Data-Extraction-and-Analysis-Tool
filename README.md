@@ -30,11 +30,11 @@ This assignment involves developing a Python program to extract incident data fr
 ## How to run
 1. To run the program, use the following command:
     ```sh
-    $ pipenv run python assignment0/main.py --incidents <url>\
+    $ pipenv run python assignment0/main.py --incidents <url>
     ```
 2. below are the screenshots from the VScode output.
-    ![1](https://drive.google.com/file/d/1S0-N8wr_3sZlaTmLc44uXQa1dErenqit/view?usp=sharing)
-    ![2](https://drive.google.com/file/d/1kVxciUtwtkKuhPZ49_xf_IdwbwDTlyv-/view?usp=sharing)
+    [Screenshot 1](https://drive.google.com/file/d/1S0-N8wr_3sZlaTmLc44uXQa1dErenqit/view?usp=sharing)
+    [Screenshot 2](https://drive.google.com/file/d/1kVxciUtwtkKuhPZ49_xf_IdwbwDTlyv-/view?usp=sharing)
 
 ## Files
 
