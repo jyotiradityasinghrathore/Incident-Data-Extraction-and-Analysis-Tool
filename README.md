@@ -1,5 +1,3 @@
-# CIS6930SP24-ASSIGNMENT0
-
 ## Author: Jyotiraditya
 
 ## Assignment Description:
